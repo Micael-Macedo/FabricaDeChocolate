@@ -1,0 +1,13 @@
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\bin\Debug\netcoreapp3.1\FabricaDeChocolate.exe
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\bin\Debug\netcoreapp3.1\FabricaDeChocolate.deps.json
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\bin\Debug\netcoreapp3.1\FabricaDeChocolate.runtimeconfig.json
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\bin\Debug\netcoreapp3.1\FabricaDeChocolate.runtimeconfig.dev.json
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\bin\Debug\netcoreapp3.1\FabricaDeChocolate.dll
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\bin\Debug\netcoreapp3.1\FabricaDeChocolate.pdb
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\obj\Debug\netcoreapp3.1\FabricaDeChocolate.csprojAssemblyReference.cache
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\obj\Debug\netcoreapp3.1\FabricaDeChocolate.AssemblyInfoInputs.cache
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\obj\Debug\netcoreapp3.1\FabricaDeChocolate.AssemblyInfo.cs
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\obj\Debug\netcoreapp3.1\FabricaDeChocolate.csproj.CoreCompileInputs.cache
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\obj\Debug\netcoreapp3.1\FabricaDeChocolate.dll
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\obj\Debug\netcoreapp3.1\FabricaDeChocolate.pdb
+C:\Users\ALUNOVDI\Documents\FabricaDeChocolate\obj\Debug\netcoreapp3.1\FabricaDeChocolate.genruntimeconfig.cache
